@@ -1,0 +1,9 @@
+c:\users\arisu\documents\visual studio 2015\Projects\res-xm\res-xm\bin\Debug\res-xm.exe.config
+c:\users\arisu\documents\visual studio 2015\Projects\res-xm\res-xm\bin\Debug\res-xm.exe
+c:\users\arisu\documents\visual studio 2015\Projects\res-xm\res-xm\bin\Debug\res-xm.pdb
+c:\users\arisu\documents\visual studio 2015\Projects\res-xm\res-xm\obj\Debug\res_xm.Form1.resources
+c:\users\arisu\documents\visual studio 2015\Projects\res-xm\res-xm\obj\Debug\res_xm.Properties.Resources.resources
+c:\users\arisu\documents\visual studio 2015\Projects\res-xm\res-xm\obj\Debug\res-xm.csproj.GenerateResource.Cache
+c:\users\arisu\documents\visual studio 2015\Projects\res-xm\res-xm\obj\Debug\res-xm.exe
+c:\users\arisu\documents\visual studio 2015\Projects\res-xm\res-xm\obj\Debug\res-xm.pdb
+c:\users\arisu\documents\visual studio 2015\Projects\res-xm\res-xm\obj\Debug\res-xm.csprojResolveAssemblyReference.cache
